@@ -1,0 +1,29 @@
+.autisbutton {
+    margin-left: 10px;
+    background: #34d93f;
+    background-image: -webkit-linear-gradient(top, #34d93f, #6ab82b);
+    background-image: -moz-linear-gradient(top, #34d93f, #6ab82b);
+    background-image: -ms-linear-gradient(top, #34d93f, #6ab82b);
+    background-image: -o-linear-gradient(top, #34d93f, #6ab82b);
+    background-image: linear-gradient(to bottom, #34d93f, #6ab82b);
+    -webkit-border-radius: 5;
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    text-shadow: 2px 2px 6px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .autisbutton:hover {
+    background: #4cfa3c;
+    background-image: -webkit-linear-gradient(top, #4cfa3c, #55d934);
+    background-image: -moz-linear-gradient(top, #4cfa3c, #55d934);
+    background-image: -ms-linear-gradient(top, #4cfa3c, #55d934);
+    background-image: -o-linear-gradient(top, #4cfa3c, #55d934);
+    background-image: linear-gradient(to bottom, #4cfa3c, #55d934);
+    text-decoration: none;
+  }
+  
